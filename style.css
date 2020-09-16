@@ -1,0 +1,9 @@
+.continer {
+  text-align: center;
+}
+.col {
+  background-color: silver;
+  margin: 4px;
+  height: 6rem;
+  text-transform: capitalize;
+}
